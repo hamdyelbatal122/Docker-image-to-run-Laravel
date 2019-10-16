@@ -39,6 +39,7 @@ In the latest update, I changed the base image to `php:alpine` for size optimizi
     docker run --name <container_name> -d -v $PWD:/var/www -p 80:80 hitalos/laravel
 Where $PWD is the laravel installation folder.
 
+
 ### With `docker-compose`
 
 Create a `docker-compose.yml` file in the root folder of project using this as a template:
