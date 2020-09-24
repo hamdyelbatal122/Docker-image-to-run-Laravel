@@ -82,6 +82,10 @@ db:
         MYSQL_DATABASE: dbname
         MYSQL_USER: username
         MYSQL_PASSWORD: p455w0rd
-
+        
+  # with postgres
+        POSTGRES_DB: dbname
+        POSTGRES_USER: username
+        POSTGRES_PASSWORD: p455w0rd
       
 ```
