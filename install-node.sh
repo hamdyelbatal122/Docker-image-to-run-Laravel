@@ -1,7 +1,6 @@
 #!/bin/sh
 
 mkdir -p /usr/local/lib/nodejs
-
 # Install latest LTS node version
 echo "@edge http://nl.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories
 apk add -U nodejs@edge libuv@edge
