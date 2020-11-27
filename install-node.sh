@@ -6,7 +6,7 @@ echo "@edge http://nl.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories
 apk add -U nodejs@edge libuv@edge
 
 # Install latest NPM
-curl -s -0 -L npmjs.org/install.sh || sh
+curl -s -0 -L npmjs.org/install.sh | sh
 
 # Install Yarn
 npm i -g yarn
