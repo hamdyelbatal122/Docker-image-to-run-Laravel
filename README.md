@@ -3,6 +3,7 @@
 # laravel
 Docker image to run PHP (supporting Laravel) and Node projects.
 
+
 This image it's for development. **Optimize to use in production!**
 
 In the latest update, I changed the base image to `php:alpine` for size optimizing.
@@ -88,3 +89,4 @@ db:
         POSTGRES_PASSWORD: p455w0rd
       
 ``
+
