@@ -14,7 +14,7 @@ In the latest update, I changed the base image to `php:alpine` for size optimizi
    * `composer` 1.9.0
    * `phpunit`8.3.5
    * `xdebug` 2.7.2
- * `nodejs` 10.16.3
+   * `nodejs` 10.16.3
    * `npm` 6.11.3
    * `yarn` 1.17.3
 
