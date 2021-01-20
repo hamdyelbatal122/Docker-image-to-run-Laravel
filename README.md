@@ -16,8 +16,7 @@ In the latest update, I changed the base image to `php:alpine` for size optimizi
    * `xdebug` 2.7.2
    * `nodejs` 10.16.3
    * `npm` 6.11.3
-   * `yarn` 1.17.3
-   
+   * `yarn` 1.17.3   
 
 ## Supported Databases (**PDO**)
 * `mssql` (via dblib)
