@@ -33,6 +33,7 @@ In the latest update, I changed the base image to `php:alpine` for size optimizi
 
 ## Installing
     docker pull hitalos/laravel
+    
 
 ## Using
 
