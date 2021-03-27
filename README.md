@@ -87,6 +87,7 @@ db:
   # with postgres
         POSTGRES_DB: dbname
         POSTGRES_USER: username
-        POSTGRES_PASSWORD: p455w0rd
+        POSTGRES_PASS
+        WORD: p455w0rd
 ``
 
