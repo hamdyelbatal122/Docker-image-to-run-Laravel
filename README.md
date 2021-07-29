@@ -80,6 +80,7 @@ web:
 db:
     image: [postgres or mysql]
     environment:
+        # with mysql
         MYSQL_DATABASE: dbname
         MYSQL_USER: username
         MYSQL_PASSWORD: p455w0rd
