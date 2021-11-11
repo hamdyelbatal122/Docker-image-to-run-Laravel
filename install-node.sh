@@ -12,4 +12,3 @@ npm i -g yarn
 
 # Install build dependencies
 apk add autoconf automake g++ gcc libpng-dev libtool make nasm python
-
