@@ -3,7 +3,6 @@
 # laravel
 Docker image to run PHP (supporting Laravel) and Node projects.
 
-
 This image it's for development. **Optimize to use in production!**
 
 In the latest update, I changed the base image to `php:alpine` for size optimizing.
@@ -34,7 +33,6 @@ In the latest update, I changed the base image to `php:alpine` for size optimizi
 ## Installing
     docker pull hitalos/laravel
     
-
 ## Using
 
 ### With `docker`
