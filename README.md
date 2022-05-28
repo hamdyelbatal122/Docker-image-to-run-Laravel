@@ -7,7 +7,6 @@ This image it's for development. **Optimize to use in production!**
 
 In the latest update, I changed the base image to `php:alpine` for size optimizing.
 
-
 ## Tags
 * [**`latest`**:](https://github.com/hitalos/laravel/blob/master/Dockerfile)  
  * `php` 7.3.9
