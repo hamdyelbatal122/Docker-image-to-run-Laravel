@@ -59,7 +59,6 @@ Then run using this command:
 
     docker-compose up
 
-
 If you want to use a database, you can create your `docker-compose.yml` with two containers.
 ```
 web:
