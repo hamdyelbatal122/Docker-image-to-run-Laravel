@@ -1,5 +1,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/hitalos/laravel.svg)
+
 # laravel
+
 Docker image to run PHP (supporting Laravel) and Node projects.
 
 This image it's for development. **Optimize to use in production!**
